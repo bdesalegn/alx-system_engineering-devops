@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-# My first Script that prints the diectory 
 echo "/root/alx-system_engineering-devops/0x00-shell_basics"
-=======
-/root/alx-system_engineering-devops/0x00-shell_basics/n
->>>>>>> a23ae7d85bd267e75d7eaf6cc089e23fd3b06e82
