@@ -1,8 +1,6 @@
 Shell, I/O Redirections and filters
 
-| Tasks | Description |
-
-| --- | --- |
+| Tasks            | Description |
 
 | 0. Hello World |Write a script that prints “Hello, World”, |
 
